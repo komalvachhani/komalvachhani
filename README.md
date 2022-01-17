@@ -22,4 +22,6 @@ My name is Komal Vachhani and I am an Electrical Engineering student @ the Unive
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I programmed my [first website](https://twitter.com/MsLRichards/status/673905591081967616?s=20) in Grade 7 titled "All About Water Pollution" using HTML/CSS and Komodo IDE!
 
-[![Komal's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=komalvachhani&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=komalvachhani&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komalvachhani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
