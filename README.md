@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Komal Vachhani and I am an Electrical Engineering student @ the University of Waterloo seeking a Winter 2023 Internship!
+My name is Komal Vachhani and I am a Computer Engineering student @ the University of Waterloo seeking a Winter 2023 Internship!
 
-- 🌱 I’m currently working as a Full Stack Developer @ SS&C Technologies + working on my personal projects.
-- ☀️ Last summer, I completed a Software Engineering internship at West Oak Design Inc.
+- 🌱 In Spring 2022, I worked as a Full Stack Developer @ SS&C Technologies & my personal projects.
+- ☀️ The summer before that, I completed a Software Engineering internship at West Oak Design Inc.
 - 📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/komalvachhani/) or komal.vachhani@uwaterloo.ca
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I programmed my [first website](https://twitter.com/MsLRichards/status/673905591081967616?s=20) in Grade 7 titled "All About Water Pollution" using HTML/CSS and Komodo IDE!
