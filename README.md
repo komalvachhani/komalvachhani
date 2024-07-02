@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Komal Vachhani and I am a third-year Computer Engineering student @ the University of Waterloo seeking a Spring 2024 Internship!
+My name is Komal Vachhani and I am a third-year Computer Engineering student @ the University of Waterloo seeking a 2025 Internship (Winter and Spring)!
+- 🌱 Spring 2024 - Robotics Researcher @ [Department of National Defence](https://www.canada.ca/en/defence-research-development/corporate/mandate.html)
 - 🍂 Fall 2023 - Software Engineering Intern @ [Sanctuary AI](https://sanctuary.ai/)
 - ❄️ Winter 2023 - Robotics Software Engineering Intern @ [Kindred AI](https://www.kindred.ai/)
 - 🌱 Spring 2022 - Full Stack Developer Intern @ [SS&C Technologies](https://www.ssctech.com/)
 - ☀️ Summer 2021 - Software Engineering Intern @ [West Oak Design Inc](https://gosmarthub.com/)
-- ♾ Since forever ago till now - Co-President @ [SPARK](https://www.startthespark.ca/)
+- ♾ Since forever ago till now - President @ [SPARK](https://www.startthespark.ca/)
 
 Now what?
 - 🕸 Learn more about me and check out my portfolio on my [website!](https://komalvachhani.com/)
