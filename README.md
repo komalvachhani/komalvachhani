@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Komal Vachhani and I am a third-year Computer Engineering student @ the University of Waterloo seeking a 2025 Internship (Winter and Spring)!
+My name is Komal Vachhani and I am a final year Computer Engineering student @ the University of Waterloo seeking a 2025 Internship (Summer or Fall)!
+- ❄️ Winter 2025 - Software Engineering Intern @ [Zipline](https://www.flyzipline.com/)
 - 🌱 Spring 2024 - Robotics Researcher @ [Department of National Defence](https://www.canada.ca/en/defence-research-development/corporate/mandate.html)
 - 🍂 Fall 2023 - Software Engineering Intern @ [Sanctuary AI](https://sanctuary.ai/)
 - ❄️ Winter 2023 - Robotics Software Engineering Intern @ [Kindred AI](https://www.kindred.ai/)
